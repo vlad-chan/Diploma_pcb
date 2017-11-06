@@ -1,0 +1,57 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# D
+#
+DEF ~D VD 0 40 N N 1 F N
+F0 "VD" 0 145 50 H V C CNN
+F1 "D" 0 0 50 H I C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ TO-???*
+ *SingleDiode
+ *_Diode_*
+ *SingleDiode*
+ D_*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -79 -98 -79 99 N
+P 2 0 1 20 -79 0 78 0 N
+P 4 0 1 20 -79 0 79 99 79 -98 -79 0 N
+X K 1 -178 0 100 R 50 50 1 1 P
+X A 2 179 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# LED
+#
+DEF ~LED HL 0 40 N N 1 F N
+F0 "HL" 0 246 50 H V C CNN
+F1 "LED" 0 0 50 H I C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ TO-???*
+ *SingleDiode
+ *_Diode_*
+ *SingleDiode*
+ D_*
+$ENDFPLIST
+DRAW
+C 0 0 197 0 1 20 N
+P 2 0 1 20 -354 -273 -325 -202 N
+P 2 0 1 20 -354 -273 -283 -244 N
+P 2 0 1 20 -272 -354 -243 -283 N
+P 2 0 1 20 -272 -354 -201 -325 N
+P 2 0 1 20 -224 -143 -354 -273 N
+P 2 0 1 20 -197 0 197 0 N
+P 2 0 1 20 -142 -224 -272 -354 N
+P 2 0 1 20 -79 -98 -79 99 N
+P 4 0 1 20 -79 0 79 99 79 -98 -79 0 N
+X K 1 -302 0 100 R 50 50 1 1 P
+X A 2 304 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

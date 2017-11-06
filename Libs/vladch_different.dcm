@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Crystal
+D Crystal_GOST_2.736-68
+K quartz ceramic resonator oscillator
+$ENDCMP
+#
+$CMP L
+D Inductor_GOST_2.723-68
+K inductor choke coil reactor magnetic
+$ENDCMP
+#
+#End Doc Library

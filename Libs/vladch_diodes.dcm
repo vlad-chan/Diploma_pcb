@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP D
+D Diode_GOST_2.730-73
+K diode
+$ENDCMP
+#
+$CMP LED
+D LED_GOST_2.730-73
+K diode
+$ENDCMP
+#
+#End Doc Library

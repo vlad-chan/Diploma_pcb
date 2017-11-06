@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C
+D Capacitor_GOST_2.728-74
+K cap capacitor
+$ENDCMP
+#
+$CMP C_EL
+D Capacitor_E_GOST_2.728-74
+K cap capacitor
+$ENDCMP
+#
+$CMP C_EL_POL
+D Capacitor_EP_GOST_2.728-74
+K cap capacitor
+$ENDCMP
+#
+#End Doc Library

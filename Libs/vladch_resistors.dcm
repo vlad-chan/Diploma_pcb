@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP R
+D Resistor_GOST_2.728-74
+K r res resistor
+$ENDCMP
+#
+$CMP R_0.05W
+D Resistor_0.05W_GOST_2.728-74
+K r res resistor
+$ENDCMP
+#
+$CMP R_0.125W
+D Resistor_0.125W_GOST_2.728-74
+K r res resistor
+$ENDCMP
+#
+$CMP R_0.25W
+D Resistor_0.25W_GOST_2.728-74
+K r res resistor
+$ENDCMP
+#
+$CMP R_0.5W
+D Resistor_0.5W_GOST_2.728-74
+K r res resistor
+$ENDCMP
+#
+$CMP R_1W
+D Resistor_1W_GOST_2.728-74
+K r res resistor
+$ENDCMP
+#
+#End Doc Library
