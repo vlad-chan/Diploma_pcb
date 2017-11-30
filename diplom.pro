@@ -1,4 +1,4 @@
-update=27.11.2017 23:41:33
+update=29.11.2017 17:49:49
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=Libs
+LibDir=Libs;Footprints.pretty
 [eeschema/libraries]
 LibName1=diplom-rescue
 LibName2=Libs/vladch_ics
